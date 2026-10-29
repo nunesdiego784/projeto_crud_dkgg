@@ -133,4 +133,3 @@ clientes = cliente_repo.get_all()
   - `[Gabriel Figueiredo]`
   - `[Kauan Silva]`
   - `[Gabriel Koch]`
-  - `[Nome Completo]`
